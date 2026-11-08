@@ -1,5 +1,6 @@
 {
-  "tokens" : [
-    "8978727236:AAE5E0sqGBvDO4xfA17NOR99rkuMKqk4Y4I"
+  "tokens": [
+    "8978727236:AAE5E0sqGBvDO4xfA17NOR99rkuMKqk4Y4I",
+    "8945137945:AAE3nCWcDIdBz2oS06R_tS3FhB0JJaM_EoY"
   ]
 }
